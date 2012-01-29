@@ -33,5 +33,5 @@ konjac translate input.txt -o output.txt -f ja -t en -u alphanumeric
 Convert using the alphanumeric, kana and punctuation dictionaries:
 
 ```bash
-konjac translate input.txt -o output.txt -f ja -t en -u {alphanumeric,kana,punctuation}
+konjac translate input.txt -o output.txt -f ja -t en -u alphanumeric -u kana -u punctuation
 ```
