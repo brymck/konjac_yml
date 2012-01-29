@@ -1,0 +1,337 @@
+---
+-
+  en:
+    en: '0'
+    ja: ０
+    no_space: true
+-
+  en:
+    en: '1'
+    ja: １
+    no_space: true
+-
+  en:
+    en: '2'
+    ja: ２
+    no_space: true
+-
+  en:
+    en: '3'
+    ja: ３
+    no_space: true
+-
+  en:
+    en: '4'
+    ja: ４
+    no_space: true
+-
+  en:
+    en: '5'
+    ja: ５
+    no_space: true
+-
+  en:
+    en: '6'
+    ja: ６
+    no_space: true
+-
+  en:
+    en: '7'
+    ja: ７
+    no_space: true
+-
+  en:
+    en: '8'
+    ja: ８
+    no_space: true
+-
+  en:
+    en: '9'
+    ja: ９
+    no_space: true
+-
+  en:
+    en: A
+    ja: Ａ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: a
+    ja: ａ
+    no_space: true
+-
+  en:
+    en: B
+    ja: Ｂ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: b
+    ja: ｂ
+    no_space: true
+-
+  en:
+    en: C
+    ja: Ｃ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: c
+    ja: ｃ
+    no_space: true
+-
+  en:
+    en: D
+    ja: Ｄ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: d
+    ja: ｄ
+    no_space: true
+-
+  en:
+    en: E
+    ja: Ｅ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: e
+    ja: ｅ
+    no_space: true
+-
+  en:
+    en: F
+    ja: Ｆ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: f
+    ja: ｆ
+    no_space: true
+-
+  en:
+    en: G
+    ja: Ｇ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: g
+    ja: ｇ
+    no_space: true
+-
+  en:
+    en: H
+    ja: Ｈ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: h
+    ja: ｈ
+    no_space: true
+-
+  en:
+    en: I
+    ja: Ｉ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: i
+    ja: ｉ
+    no_space: true
+-
+  en:
+    en: J
+    ja: Ｊ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: j
+    ja: ｊ
+    no_space: true
+-
+  en:
+    en: K
+    ja: Ｋ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: k
+    ja: ｋ
+    no_space: true
+-
+  en:
+    en: L
+    ja: Ｌ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: l
+    ja: ｌ
+    no_space: true
+-
+  en:
+    en: M
+    ja: Ｍ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: m
+    ja: ｍ
+    no_space: true
+-
+  en:
+    en: N
+    ja: Ｎ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: n
+    ja: ｎ
+    no_space: true
+-
+  en:
+    en: O
+    ja: Ｏ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: o
+    ja: ｏ
+    no_space: true
+-
+  en:
+    en: P
+    ja: Ｐ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: p
+    ja: ｐ
+    no_space: true
+-
+  en:
+    en: Q
+    ja: Ｑ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: q
+    ja: ｑ
+    no_space: true
+-
+  en:
+    en: R
+    ja: Ｒ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: r
+    ja: ｒ
+    no_space: true
+-
+  en:
+    en: S
+    ja: Ｓ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: s
+    ja: ｓ
+    no_space: true
+-
+  en:
+    en: T
+    ja: Ｔ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: t
+    ja: ｔ
+    no_space: true
+-
+  en:
+    en: U
+    ja: Ｕ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: u
+    ja: ｕ
+    no_space: true
+-
+  en:
+    en: V
+    ja: Ｖ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: v
+    ja: ｖ
+    no_space: true
+-
+  en:
+    en: W
+    ja: Ｗ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: w
+    ja: ｗ
+    no_space: true
+-
+  en:
+    en: X
+    ja: Ｘ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: x
+    ja: ｘ
+    no_space: true
+-
+  en:
+    en: Y
+    ja: Ｙ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: y
+    ja: ｙ
+    no_space: true
+-
+  en:
+    en: Z
+    ja: Ｚ
+    case_sensitive: true
+    no_space: true
+-
+  en:
+    en: z
+    ja: ｚ
+    no_space: true

@@ -1,0 +1,406 @@
+---
+-
+  en:
+    en: ア
+    ja: ｱ
+    no_space: true
+-
+  en:
+    en: イ
+    ja: ｲ
+    no_space: true
+-
+  en:
+    en: ウ
+    ja: ｳ
+    no_space: true
+-
+  en:
+    en: エ
+    ja: ｴ
+    no_space: true
+-
+  en:
+    en: オ
+    ja: ｵ
+    no_space: true
+-
+  en:
+    en: カ
+    ja: ｶ
+    no_space: true
+-
+  en:
+    en: キ
+    ja: ｷ
+    no_space: true
+-
+  en:
+    en: ク
+    ja: ｸ
+    no_space: true
+-
+  en:
+    en: ケ
+    ja: ｹ
+    no_space: true
+-
+  en:
+    en: コ
+    ja: ｺ
+    no_space: true
+-
+  en:
+    en: サ
+    ja: ｻ
+    no_space: true
+-
+  en:
+    en: シ
+    ja: ｼ
+    no_space: true
+-
+  en:
+    en: ス
+    ja: ｽ
+    no_space: true
+-
+  en:
+    en: セ
+    ja: ｾ
+    no_space: true
+-
+  en:
+    en: ソ
+    ja: ｿ
+    no_space: true
+-
+  en:
+    en: タ
+    ja: ﾀ
+    no_space: true
+-
+  en:
+    en: チ
+    ja: ﾁ
+    no_space: true
+-
+  en:
+    en: ツ
+    ja: ﾂ
+    no_space: true
+-
+  en:
+    en: テ
+    ja: ﾃ
+    no_space: true
+-
+  en:
+    en: ト
+    ja: ﾄ
+    no_space: true
+-
+  en:
+    en: ナ
+    ja: ﾅ
+    no_space: true
+-
+  en:
+    en: ニ
+    ja: ﾆ
+    no_space: true
+-
+  en:
+    en: ヌ
+    ja: ﾇ
+    no_space: true
+-
+  en:
+    en: ネ
+    ja: ﾈ
+    no_space: true
+-
+  en:
+    en: ノ
+    ja: ﾉ
+    no_space: true
+-
+  en:
+    en: ハ
+    ja: ﾊ
+    no_space: true
+-
+  en:
+    en: ヒ
+    ja: ﾋ
+    no_space: true
+-
+  en:
+    en: フ
+    ja: ﾌ
+    no_space: true
+-
+  en:
+    en: ヘ
+    ja: ﾍ
+    no_space: true
+-
+  en:
+    en: ホ
+    ja: ﾎ
+    no_space: true
+-
+  en:
+    en: マ
+    ja: ﾏ
+    no_space: true
+-
+  en:
+    en: ミ
+    ja: ﾐ
+    no_space: true
+-
+  en:
+    en: ム
+    ja: ﾑ
+    no_space: true
+-
+  en:
+    en: メ
+    ja: ﾒ
+    no_space: true
+-
+  en:
+    en: モ
+    ja: ﾓ
+    no_space: true
+-
+  en:
+    en: ヤ
+    ja: ﾔ
+    no_space: true
+-
+  en:
+    en: ユ
+    ja: ﾕ
+    no_space: true
+-
+  en:
+    en: ヨ
+    ja: ﾖ
+    no_space: true
+-
+  en:
+    en: ラ
+    ja: ﾗ
+    no_space: true
+-
+  en:
+    en: リ
+    ja: ﾘ
+    no_space: true
+-
+  en:
+    en: ル
+    ja: ﾙ
+    no_space: true
+-
+  en:
+    en: レ
+    ja: ﾚ
+    no_space: true
+-
+  en:
+    en: ロ
+    ja: ﾛ
+    no_space: true
+-
+  en:
+    en: ワ
+    ja: ﾜ
+    no_space: true
+-
+  en:
+    en: ヲ
+    ja: ｦ
+    no_space: true
+-
+  en:
+    en: ン
+    ja: ﾝ
+    no_space: true
+-
+  en:
+    en: ガ
+    ja: ｶﾞ
+    no_space: true
+-
+  en:
+    en: ギ
+    ja: ｷﾞ
+    no_space: true
+-
+  en:
+    en: グ
+    ja: ｸﾞ
+    no_space: true
+-
+  en:
+    en: ゲ
+    ja: ｹﾞ
+    no_space: true
+-
+  en:
+    en: ゴ
+    ja: ｺﾞ
+    no_space: true
+-
+  en:
+    en: ザ
+    ja: ｻﾞ
+    no_space: true
+-
+  en:
+    en: ジ
+    ja: ｼﾞ
+    no_space: true
+-
+  en:
+    en: ズ
+    ja: ｽﾞ
+    no_space: true
+-
+  en:
+    en: ゼ
+    ja: ｾﾞ
+    no_space: true
+-
+  en:
+    en: ゾ
+    ja: ｿﾞ
+    no_space: true
+-
+  en:
+    en: ダ
+    ja: ﾀﾞ
+    no_space: true
+-
+  en:
+    en: ヂ
+    ja: ﾁﾞ
+    no_space: true
+-
+  en:
+    en: ヅ
+    ja: ﾂﾞ
+    no_space: true
+-
+  en:
+    en: デ
+    ja: ﾃﾞ
+    no_space: true
+-
+  en:
+    en: ド
+    ja: ﾄﾞ
+    no_space: true
+-
+  en:
+    en: バ
+    ja: ﾊﾞ
+    no_space: true
+-
+  en:
+    en: ビ
+    ja: ﾋﾞ
+    no_space: true
+-
+  en:
+    en: ブ
+    ja: ﾌﾞ
+    no_space: true
+-
+  en:
+    en: ベ
+    ja: ﾍﾞ
+    no_space: true
+-
+  en:
+    en: ボ
+    ja: ﾎﾞ
+    no_space: true
+-
+  en:
+    en: パ
+    ja: ﾊﾟ
+    no_space: true
+-
+  en:
+    en: ピ
+    ja: ﾋﾟ
+    no_space: true
+-
+  en:
+    en: プ
+    ja: ﾌﾟ
+    no_space: true
+-
+  en:
+    en: ペ
+    ja: ﾍﾟ
+    no_space: true
+-
+  en:
+    en: ポ
+    ja: ﾎﾟ
+    no_space: true
+-
+  en:
+    en: ァ
+    ja: ｧ
+    no_space: true
+-
+  en:
+    en: ィ
+    ja: ｨ
+    no_space: true
+-
+  en:
+    en: ゥ
+    ja: ｩ
+    no_space: true
+-
+  en:
+    en: ェ
+    ja: ｪ
+    no_space: true
+-
+  en:
+    en: ォ
+    ja: ｫ
+    no_space: true
+-
+  en:
+    en: ャ
+    ja: ｬ
+    no_space: true
+-
+  en:
+    en: ュ
+    ja: ｭ
+    no_space: true
+-
+  en:
+    en: ョ
+    ja: ｮ
+    no_space: true
+-
+  en:
+    en: ッ
+    ja: ｯ
+    no_space: true
+-
+  en:
+    en: ヴ
+    ja: ｳﾞ
+    no_space: true

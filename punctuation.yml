@@ -1,0 +1,39 @@
+---
+-
+  en:
+    en: ", "
+    ja: 、
+    no_space: true
+-
+  en:
+    en: ". "
+    ja: 。
+    no_space: true
+-
+  en:
+    en: " ("
+    ja: （
+    no_space: true
+-
+  en:
+    en: ") "
+    ja: ）
+    no_space: true
+-
+  en:
+    en: ""
+    ja: !ruby/regexp '/^\s(?=[,.()])/'
+-
+  en:
+    en: ""
+    ja: !ruby/regexp '/(?<=[,.()])\s$/'
+-
+  en:
+    en: '/'
+    ja: ／
+    no_space: true
+-
+  en:
+    en: '-'
+    ja: !ruby/regexp '/(?<=[a-z0-9])[ー－](?=[a-z0-9])/i'
+    no_space: true
