@@ -1,4 +1,5 @@
 ---
+# Numbers
 -
   en:
     en: '0'
@@ -49,6 +50,34 @@
     en: '9'
     ja: ９
     no_space: true
+
+# Man
+-
+  en:
+    en: '\1\200<<<'
+    ja: !ruby/regexp '/(\d+)\.(\d{2})万/'
+-
+  en:
+    en: '\1\2000<<<'
+    ja: !ruby/regexp '/(\d+)\.(\d)万/'
+-
+  en:
+    en: '\10000<<<'
+    ja: !ruby/regexp '/(\d+)万/'
+
+# Add thousands separators to converted numbers
+-
+  en:
+    en: '\1,'
+    ja: !ruby/regexp '/(\d)(?=(\d\d\d)+(?!\d))/'
+    no_space: true
+-
+  en:
+    en: ''
+    ja: !ruby/regexp '/(?<=\d)<<</'
+    no_space: true
+
+# Letters
 -
   en:
     en: A
